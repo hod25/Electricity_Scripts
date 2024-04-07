@@ -1,0 +1,15 @@
+/.tmp.driveupload
+/elecreic_consuption.csv
+/elecreic_consuption.py
+/electricity_data.py
+/electric_script.py
+/hourly_sums.csv
+/import csv.py
+/import csv1.py
+/import pandas as pd.py
+/meter_23584043_LP_10-03-2024.csv
+/meter_23584043_LP_26-02-2024.csv
+/paln.py
+/power_consumption.csv
+/power_consumption_summed.csv
+/transposed_data.py

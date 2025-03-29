@@ -13,7 +13,6 @@ import csv
 from collections import defaultdict
 from datetime import datetime
 import os
-
 # Define a defaultdict to store sums for each hour
 hourly_sums = defaultdict(float)
 

@@ -19,6 +19,7 @@ hourly_sums = defaultdict(float)
 # Ask the user for the input CSV file path
 input_file = input("Enter the path to the input CSV file: ")
 
+
 # Read the CSV file
 with open(input_file, newline='') as csvfile:
     reader = csv.reader(csvfile)

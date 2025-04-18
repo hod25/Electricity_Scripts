@@ -9,7 +9,6 @@
 # "07/02/2024","10:30",.507
 # "07/02/2024","10:45",.401
 
-
 import csv
 from collections import defaultdict
 from datetime import datetime
